@@ -30,8 +30,8 @@ Ensure you have the following installed on your system:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/youtube-shorts-bot.git
-cd youtube-shorts-bot
+git clone https://github.com/0aaryan/reddit-shorts/
+cd reddit-shorts
 ```
 
 2. Set up a virtual environment (optional but recommended).
@@ -44,7 +44,8 @@ source venv/bin/activate
 3. Install the required dependencies.
 
 ```bash
-pip install -r requirements.txt
+pip install google-cloud-texttospeech openai moviepy argparse
+
 ```
 
 4. Download and set up Google Cloud credentials for the Text-to-Speech API.
