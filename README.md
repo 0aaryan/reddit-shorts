@@ -1,6 +1,6 @@
 # YouTube Shorts and Reels Automation Bot
 
-![Logo](./media/profile/logo.png)
+![Logo](./media/profile/profilePic.png)
 
 ## Introduction
 
